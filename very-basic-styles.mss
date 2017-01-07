@@ -44,4 +44,8 @@ Map {
   polygon-fill:#c0d8ff;
 }
 
+#dcbaltimoremarylando {
+  line-width:1;
+  line-color:#c0d8ff;
+}
 
